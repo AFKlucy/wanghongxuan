@@ -1,39 +1,35 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Wang Hongxuan
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: B.S., School of Resources and Civil Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Northeastern University, Shenyang, China
+  url: http://www.neu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Nanostructures
+- Materials Science
+- Chemistry (Environmental Chemistry)
 
 # Education to show in About widget
 education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Bsc in Environmental Engineering
+    institution: Northeastern University (985&211)
+    year: 2021.6
+  - course: Student
+    institution: Daqing Experimental Middle School  (Provincial key high school)
+    year: 2018.6
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
