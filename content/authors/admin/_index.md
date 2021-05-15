@@ -27,6 +27,9 @@ education:
   - course: Bsc in Environmental Engineering
     institution: Northeastern University (985&211)
     year: 2021.6
+  - course: Bsc in Environmental Engineering
+    institution: Northeastern University (985&211)
+    year: 2021.6
   - course: Student
     institution: Daqing Experimental Middle School  (Provincial key high school)
     year: 2018.6
